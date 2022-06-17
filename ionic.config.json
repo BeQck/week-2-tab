@@ -1,0 +1,8 @@
+{
+  "name": "week-2-tab",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "70ffd416"
+}
